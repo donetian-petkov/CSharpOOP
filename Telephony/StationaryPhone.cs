@@ -15,7 +15,7 @@ namespace Telephony
             
             if (isIntString)
             {
-                Console.WriteLine($"Calling... {number}");
+                Console.WriteLine($"Dialing... {number}");
             }
             else
             {

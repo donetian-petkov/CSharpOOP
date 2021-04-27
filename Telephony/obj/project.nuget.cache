@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kIz6s83slbBzMy0tqq597ALrcQX1KuJUg2TArWuxGApIAcvNeJki9VmEIduAzMztSuXvEH87fu/rm1YYaRuhBw==",
+  "dgSpecHash": "jq7Q38EK15cz8SZEkGluhzCSw07WfqG3S3/1BPy4+z42pv1r/B13MPyF84J4ZnbH/7OmiJEnQSZvLQBkvFX+pg==",
   "success": true,
   "projectFilePath": "/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/Telephony.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/donetianpetkov/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/donetianpetkov/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
