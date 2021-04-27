@@ -1,0 +1,15 @@
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/Telephony.deps.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/Telephony.runtimeconfig.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/Telephony.runtimeconfig.dev.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/Telephony.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/ref/Telephony.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/bin/Debug/net5.0/Telephony.pdb
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.csprojAssemblyReference.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.AssemblyInfoInputs.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.AssemblyInfo.cs
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.csproj.CoreCompileInputs.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/ref/Telephony.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.pdb
+/Users/donetianpetkov/RiderProjects/PersonInfo/Telephony/obj/Debug/net5.0/Telephony.genruntimeconfig.cache
