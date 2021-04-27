@@ -1,0 +1,12 @@
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.deps.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.runtimeconfig.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.runtimeconfig.dev.json
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.pdb
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.csprojAssemblyReference.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.AssemblyInfoInputs.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.AssemblyInfo.cs
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.csproj.CoreCompileInputs.cache
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.dll
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.pdb
+/Users/donetianpetkov/RiderProjects/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.genruntimeconfig.cache
